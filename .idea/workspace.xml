@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de81cc2e-e7b4-48ee-b6ae-5922ae531dff" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-880527759">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="java" value="5" />
+          <entry key="properties" value="1" />
+          <entry key="txt" value="4" />
+          <entry key="xml" value="6" />
+          <entry key="xsd" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="JAVA" value="5" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo/src/java/org/apache/lucene/demo/IndexFiles.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="92" column="39" selection-start-line="92" selection-start-column="39" selection-end-line="92" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/src/java/org/apache/lucene/demo/SearchFiles.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1519" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/version.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/top-level-ivy-settings.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SYSTEM_REQUIREMENTS.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/src/java/overview.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-352" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/src/java/org/apache/lucene/demo/package-info.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NOTICE.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module-build.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>uptodate.and.compiled.properties</find>
+      <find>default=</find>
+      <find>target=&quot;</find>
+      <find>name=&quot;default&quot;</find>
+      <find>default</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.xml" />
+        <option value="$PROJECT_DIR$/common-build.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-12" />
+    <option name="width" value="1941" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lucene-7.0.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lucene-7.0.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="CatdeaLogs" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573208575796" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gant" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de81cc2e-e7b4-48ee-b6ae-5922ae531dff" name="Default Changelist" comment="" />
+      <created>1573207826910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573207826910</updated>
+      <workItem from="1573207828511" duration="836000" />
+      <workItem from="1573208686657" duration="614000" />
+      <workItem from="1586872941736" duration="365000" />
+      <workItem from="1586874169914" duration="191000" />
+      <workItem from="1586877797656" duration="4756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6762000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="704" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24838188" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Alibaba Cloud Explorer" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.16258742" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.024475524" />
+      <window_info anchor="bottom" id="Analysis" order="12" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" visible="true" weight="0.07038835" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Alibaba Function Compute" order="9" />
+      <window_info anchor="right" id="SciView" order="10" show_stripe_button="false" weight="0.32983023" />
+      <window_info anchor="right" id="Alibaba Log Console" order="11" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+    <buildFile url="file://$PROJECT_DIR$/build.xml">
+      <targetFilters>
+        <filter targetName="test-core" isVisible="true" />
+        <filter targetName="test" isVisible="true" />
+        <filter targetName="test-nocompile" isVisible="true" />
+        <filter targetName="pitest" isVisible="true" />
+        <filter targetName="beast" isVisible="true" />
+        <filter targetName="compile-core" isVisible="true" />
+        <filter targetName="compile" isVisible="false" />
+        <filter targetName="validate" isVisible="false" />
+        <filter targetName="compile-tools" isVisible="false" />
+        <filter targetName="check-licenses" isVisible="true" />
+        <filter targetName="check-lib-versions" isVisible="true" />
+        <filter targetName="check-forbidden-apis" isVisible="true" />
+        <filter targetName="resolve" isVisible="false" />
+        <filter targetName="documentation" isVisible="true" />
+        <filter targetName="javadoc" isVisible="false" />
+        <filter targetName="javadocs" isVisible="false" />
+        <filter targetName="documentation-lint" isVisible="true" />
+        <filter targetName="-documentation-lint" isVisible="false" />
+        <filter targetName="-ecj-javadoc-lint" isVisible="false" />
+        <filter targetName="process-webpages" isVisible="false" />
+        <filter targetName="javadocs-modules" isVisible="true" />
+        <filter targetName="rat-sources" isVisible="true" />
+        <filter targetName="package" isVisible="false" />
+        <filter targetName="nightly" isVisible="false" />
+        <filter targetName="package-zip" isVisible="true" />
+        <filter targetName="package-tgz" isVisible="true" />
+        <filter targetName="package-all-binary" isVisible="true" />
+        <filter targetName="dist" isVisible="false" />
+        <filter targetName="init-dist" isVisible="false" />
+        <filter targetName="package-tgz-src" isVisible="true" />
+        <filter targetName="package-local-src-tgz" isVisible="true" />
+        <filter targetName="dist-src" isVisible="false" />
+        <filter targetName="dist-all" isVisible="false" />
+        <filter targetName="-dist-changes" isVisible="false" />
+        <filter targetName="-dist-keys" isVisible="false" />
+        <filter targetName="copy-to-stage" isVisible="false" />
+        <filter targetName="prepare-release-no-sign" isVisible="false" />
+        <filter targetName="prepare-release" isVisible="false" />
+        <filter targetName="stage" isVisible="false" />
+        <filter targetName="-dist-maven" isVisible="false" />
+        <filter targetName="generate-maven-artifacts" isVisible="false" />
+        <filter targetName="-validate-maven-dependencies" isVisible="false" />
+        <filter targetName="sign-artifacts" isVisible="false" />
+        <filter targetName="build-modules" isVisible="true" />
+        <filter targetName="compile-test" isVisible="false" />
+        <filter targetName="test-test-framework" isVisible="false" />
+        <filter targetName="test-modules" isVisible="false" />
+        <filter targetName="changes-to-html" isVisible="false" />
+        <filter targetName="pitest-modules" isVisible="false" />
+        <filter targetName="jacoco" isVisible="true" />
+        <filter targetName="apply-patch" isVisible="true" />
+        <filter targetName="jar-test-framework" isVisible="false" />
+        <filter targetName="jar-core" isVisible="false" />
+        <filter targetName="jar" isVisible="false" />
+        <filter targetName="jar-src" isVisible="false" />
+        <filter targetName="get-jenkins-line-docs" isVisible="false" />
+        <filter targetName="jar-checksums" isVisible="false" />
+        <filter targetName="regenerate" isVisible="false" />
+        <filter targetName="-append-module-dependencies-properties" isVisible="false" />
+        <filter targetName="-documentation-lint-unsupported" isVisible="false" />
+        <filter targetName="clean" isVisible="true" />
+        <filter targetName="init" isVisible="false" />
+        <filter targetName="git-autoclean" isVisible="false" />
+        <filter targetName="-check-git-state" isVisible="false" />
+        <filter targetName="-git-cleanroot" isVisible="false" />
+        <filter targetName="-copy-git-state" isVisible="false" />
+        <filter targetName="ivy-configure" isVisible="false" />
+        <filter targetName="ivy-availability-check" isVisible="false" />
+        <filter targetName="ivy-fail" isVisible="false" />
+        <filter targetName="ivy-bootstrap" isVisible="true" />
+        <filter targetName="ivy-bootstrap1" isVisible="false" />
+        <filter targetName="ivy-bootstrap2" isVisible="false" />
+        <filter targetName="ivy-checksum" isVisible="false" />
+        <filter targetName="-ensure-lucene-tgz-exists" isVisible="false" />
+        <filter targetName="-unpack-lucene-tgz" isVisible="false" />
+        <filter targetName="check-lucene-core-uptodate" isVisible="false" />
+        <filter targetName="jar-lucene-core" isVisible="false" />
+        <filter targetName="compile-lucene-core" isVisible="false" />
+        <filter targetName="check-lucene-core-javadocs-uptodate" isVisible="false" />
+        <filter targetName="check-lucene-codecs-javadocs-uptodate" isVisible="false" />
+        <filter targetName="javadocs-lucene-core" isVisible="false" />
+        <filter targetName="compile-codecs" isVisible="false" />
+        <filter targetName="javadocs-lucene-codecs" isVisible="false" />
+        <filter targetName="compile-test-framework" isVisible="false" />
+        <filter targetName="check-lucene-test-framework-javadocs-uptodate" isVisible="false" />
+        <filter targetName="javadocs-test-framework" isVisible="false" />
+        <filter targetName="test-updatecache" isVisible="true" />
+        <filter targetName="test-times" isVisible="true" />
+        <filter targetName="test-help" isVisible="true" />
+        <filter targetName="install-junit4-taskdef" isVisible="false" />
+        <filter targetName="-jacoco-install" isVisible="false" />
+        <filter targetName="-jacoco-test" isVisible="false" />
+        <filter targetName="-jacoco-report" isVisible="false" />
+        <filter targetName="-test" isVisible="false" />
+        <filter targetName="-beast" isVisible="false" />
+        <filter targetName="-check-totals" isVisible="false" />
+        <filter targetName="-init-totals" isVisible="false" />
+        <filter targetName="clover" isVisible="false" />
+        <filter targetName="-clover.load" isVisible="false" />
+        <filter targetName="-clover.classpath" isVisible="false" />
+        <filter targetName="-clover.setup" isVisible="false" />
+        <filter targetName="-clover.disable" isVisible="false" />
+        <filter targetName="generate-test-reports" isVisible="true" />
+        <filter targetName="default" isVisible="false" />
+        <filter targetName="install-maven-tasks" isVisible="false" />
+        <filter targetName="-dist-maven-src-java" isVisible="false" />
+        <filter targetName="-validate-maven-dependencies.init" isVisible="false" />
+        <filter targetName="-get-maven-dependencies" isVisible="false" />
+        <filter targetName="-get-maven-poms" isVisible="false" />
+        <filter targetName="-filter-pom-templates" isVisible="false" />
+        <filter targetName="stage-maven-artifacts" isVisible="false" />
+        <filter targetName="rat-sources-typedef" isVisible="false" />
+        <filter targetName="-ecj-javadoc-lint-unsupported" isVisible="false" />
+        <filter targetName="-ecj-javadoc-lint-src" isVisible="false" />
+        <filter targetName="-ecj-javadoc-lint-tests" isVisible="false" />
+        <filter targetName="-ecj-resolve" isVisible="false" />
+        <filter targetName="check-javadocs-uptodate" isVisible="false" />
+        <filter targetName="download-java8-javadoc-packagelist" isVisible="false" />
+        <filter targetName="-install-jflex" isVisible="false" />
+        <filter targetName="resolve-groovy" isVisible="false" />
+        <filter targetName="-install-forbidden-apis" isVisible="false" />
+        <filter targetName="-init-forbidden-apis" isVisible="false" />
+        <filter targetName="-check-forbidden-all" isVisible="false" />
+        <filter targetName="-check-forbidden-tests" isVisible="false" />
+        <filter targetName="-check-forbidden-core" isVisible="false" />
+        <filter targetName="-check-forbidden-sysout" isVisible="false" />
+        <filter targetName="resolve-markdown" isVisible="false" />
+        <filter targetName="load-custom-tasks" isVisible="false" />
+      </targetFilters>
+      <expanded value="false" />
+    </buildFile>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/demo/ivy.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/build.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BUILD.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-670">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/standardSchemas/XMLSchema-instance.xsd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="1686" column="21" lean-forward="true" selection-start-line="1686" selection-start-column="21" selection-end-line="1686" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis/common/src/java/org/tartarus/snowball/SnowballProgram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3036">
+          <caret line="212" column="49" lean-forward="true" selection-start-line="212" selection-start-column="49" selection-end-line="212" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8432">
+          <caret line="294" column="35" selection-start-line="294" selection-start-column="35" selection-end-line="294" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/version.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top-level-ivy-settings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SYSTEM_REQUIREMENTS.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NOTICE.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-build.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/java/overview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-352" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/java/org/apache/lucene/demo/package-info.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/java/org/apache/lucene/demo/SearchFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1519" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/java/org/apache/lucene/demo/IndexFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="92" column="39" selection-start-line="92" selection-start-column="39" selection-end-line="92" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
